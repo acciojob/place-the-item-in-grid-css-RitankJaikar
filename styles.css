@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+.holder {
+	display: grid;
+	grid-template-columns: repeat(2, 200px);
+	grid-template-rows: repeat(2, 200px);
+	border: 4px solid lightcyan;
+}
+
+.item {
+	border: 1px solid black;
+}
+
+
+
+
+
+
